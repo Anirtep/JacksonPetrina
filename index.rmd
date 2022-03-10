@@ -1,0 +1,70 @@
+---
+title: "Bill Foote"
+output: 
+  flexdashboard::flex_dashboard:
+    orientation: columns
+    vertical_layout: fill
+---
+
+```{r setup, include=FALSE}
+library(flexdashboard)
+```
+
+About
+=====================================
+
+Column {data-width=350}
+-------------------------------------
+
+### **William G. Foote, Ph.D.**
+
+![](images/photo.jpg)
+
+### **Contact**
+
+<h4>
+- **Phone:  917-767-7980 *(voice and text)* **          
+- **Email:  wfoote01@manhattan.edu **
+- **Zoom: https://us02web.zoom.us/j/9177677980 **
+- **GitHub: https://github.com/wgfoote **
+- **LinkedIn: https://www.linkedin.com/in/william-foote-3b084515/ **
+</h4>
+
+Column {data-width=650}
+------------------------------------ 
+
+### Summary
+
+> My work rides the seams between economics, finance, and underlying value chains, commodities, operations, and strategies. 
+
+>I have had the privilege of being on the faculties of Pace, Clarkson, Syracuse Universities, Le Moyne and Manhattan College where I taught analytics, finance, and economics in evolving online and executive learning programs. My goal has always been to prepare students to take leadership positions through the rigorous application of data driven decision making.
+
+>During my career, I have helped build an energy and commodities practice in Europe for Ernst & Young, led the quantitative capital markets team at Deloitte, and helped to establish new practices in enterprise risk management at Deloitte, Charles River Associates, and Alvarez & Marsal, as well as in my own firm.
+
+
+<h2> Resume </h2>
+
+[You can access my resume here](doc/resume.pdf)
+
+Works
+==============================================
+
+<h2> Books </h2>
+
+- Decision Modeling with Spreadsheets (draft manuscript, 5/20/2021 at https://wgfoote.github.io/book-decision/ )
+
+- Statistical Learning with Spreadsheets (draft manuscript, 7/20/2021 at https://wgfoote.github.io/book-stats-one/ )
+
+- Probabilistic Reasoning (draft manuscript, 10/16/2020 at https://wgfoote.github.io/book-probabilistic-reasoning/ )
+
+- Financial Engineering Analytics in R (draft manuscript, 1/1/2020 at https://wgfoote.github.io/book-fin-alytics/index.html )
+
+<h2> Papers </h2>
+
+- “Volatility and Market Spillover: Facts of Market Life.” (co-authored with Brian Wholey) Preprint,  2022. (https://github.com/wgfoote/market-risk/blob/main/market-facts/market-facts.pdf)
+
+<h2> Lectures </h2>
+
+- Spreadsheet Decision Modeling Lecture Series (https://www.youtube.com/playlist?list=PLQhA-d1xKdQYhnQZ7yIPW-Nlk_0wI1wie)
+
+- Stats One Lecture Series (https://www.youtube.com/playlist?list=PLQhA-d1xKdQYlweQXn2SfosBNPmIY6fVZ)
