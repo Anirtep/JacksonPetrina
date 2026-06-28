@@ -13,6 +13,7 @@ MISSION:        Make layered sculpture that brings people back to oneness with t
                 The art carries a message — it is not decoration.
 MEDIUM:         Layered MDF sculpture, CNC woodworking, mixed process art
 MESSAGE:        Coming back to oneness with oneself. Art as a path inward.
+BIO:            "I make layered geometric art that lives somewhere between structure and feeling"
 CONTENT ANGLE:  Process videos in a real shop — show how it's made, why it's made,
                 and what it means. The story is as important as the object.
 SETTING:        Dad's workshop (manufacturing shop — real, grounded, not a gallery)
@@ -23,6 +24,24 @@ AUDIENCE:       People with money who have a spiritual interior life — not dec
                 People who buy art for what it means, not just what it looks like.
 TONE:           Real, grounded, intentional. Never salesy. Let the work speak first.
 BOTTLENECKS:    [FILL: update as you learn what's slowing you down]
+
+CURRENT PIECES:
+  Blue Circle Grid (FINISHED, photographed with black frame):
+    4×4 grid of navy/dark blue circles with light blue rings on white background.
+    Corner partial circles. Clean, geometric, meditative. Professional photo ready.
+    Vibe: structured calm. Different feel from the eye piece — quieter, more minimal.
+
+  Eye/Mandala (NEAR-FINISHED, getting black frame):
+    4 large human eyes at compass points (N/S/E/W). Gold triangular sections meeting
+    at center. Terracotta/burgundy base with concentric arc lines. Purple/mauve
+    spirals at corners. Small gold accent discs. Highly symbolic, spiritual, striking.
+    Part 2 reveal video planned for when frame is added.
+
+WHAT'S WORKING (from real post data):
+  - MDF material tension hook performs best (#1 hook type)
+  - Text hook on screen is critical — don't skip it
+  - Process footage > finished piece footage for engagement
+  - Mint/green colorway pieces consistently underperform vs. dark/navy/warm tones
 ```
 
 ---
@@ -157,3 +176,6 @@ New piece → `/post-workflow` → QAREVIEWER (fresh session) → post → feed 
 *One entry per session. Format: `DATE | WHAT I TRIED | WHAT HAPPENED | CHANGE NEXT TIME`*
 
 2026-06-28 | FUTURE OPPORTUNITY | Festival/visionary art community (Burning Man, psychedelic artists) — revisit when ready. See /commission-outreach.
+2026-06-28 | SOCIAL DATA ANALYSIS | Reviewed real IG, TikTok, YouTube Shorts screenshots. MDF tension hook outperforms all others. Text on screen in first 3s is non-negotiable. Process footage beats reveal footage for views. | Always lead with what the material IS before showing what you made.
+2026-06-28 | COLOR FINDING | Mint/light green pieces consistently get fewer views. Dark navy, warm terracotta, and high-contrast pieces outperform. | When writing hooks or captions, don't romanticize the mint pieces — frame them as experiments, not heroes.
+2026-06-28 | TWO PIECES READY | Blue circle grid (finished, photographed w/ black frame) and eye/mandala (near-finished, getting frame). Blue = quiet/minimal. Eye = spiritual/striking. | Run /post-workflow for blue circle grid reveal first — it's ready now.
