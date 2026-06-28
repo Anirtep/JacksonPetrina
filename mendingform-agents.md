@@ -20,9 +20,8 @@ PLATFORMS:      Instagram · TikTok · YouTube Shorts
 SELL THROUGH:   Instagram DMs · In person · Commissions
 PRICE RANGE:    $2,000–$3,000 per original piece (being refined)
 AUDIENCE:       People with money who have a spiritual interior life — not decorators.
-                Primary niche: festival artists, psychedelic/visionary art community
-                (Burning Man, Lightning in a Bottle, plant medicine retreats),
-                conscious entrepreneurs, people who buy art that means something.
+                People who buy art for what it means, not just what it looks like.
+                Spiritually connected, curious, willing to invest in something real.
 TONE:           Real, grounded, intentional. Never salesy. Let the work speak first.
                 The message behind the piece matters as much as the piece itself.
 BOTTLENECKS:    [FILL: update as you learn what's slowing you down]
@@ -129,9 +128,9 @@ Hashtag research, trend analysis, niche competitor analysis, platform best pract
 
 **Rules**: Bullet list only, max 15 bullets. Label each HIGH / MEDIUM / LOW confidence. Always include anti-patterns (what not to do).
 
-**Primary niche to research**: visionary/psychedelic art community, festival art (Burning Man, LiB,
-Shambhala, conscious festivals), plant medicine / spiritual entrepreneur circles.
-**Secondary niche**: process art, CNC art, layered sculpture, handmade statement pieces.
+**Primary niche to research**: spiritually-oriented art buyers, people who collect meaningful art,
+conscious/intentional living community, process art and handmade statement pieces.
+**Secondary niche**: CNC art, layered sculpture, handmade one-of-a-kind work.
 
 **Invoke:**
 ```
@@ -269,4 +268,4 @@ POST → feed data back to CONTENTANALYST weekly
 
 *Log one learning per session. Format: `DATE | AGENT | WHAT HAPPENED | DO DIFFERENTLY`*
 
-*(empty — populate from real experience only)*
+2026-06-28 | FUTURE OPPORTUNITY | Festival/visionary art community (Burning Man, psychedelic artists) may pay well for commissions — they buy meaningful art and have real budgets. Jackson wants to revisit this later. See /commission-outreach skill when ready.
