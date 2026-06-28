@@ -50,12 +50,18 @@ There is no API, no code, no automation. It is a manual workflow.
 
 - `BOTTLENECKS` field in Brand Brief (`mendingform-agents.md`) — not yet filled in
 - Metricool account not yet set up
-- No social media posts live yet — all infrastructure, no content
 - No commission targets identified yet
+- Eye/mandala piece not yet posted — waiting on black frame, Part 2 video planned
+
+## What has shipped (content)
+
+- Process videos for both pieces (blue circle grid and eye/mandala) posted to IG/TikTok/Shorts
+- Blue circle grid: finished, photographed with black frame — **reveal post content ready, not yet posted**
+- Full /post-workflow output generated: hook #5 (MDF tension), video arc, 3 captions, 15 hashtags
 
 ## Current priority
 
-Post the first piece of content. All infrastructure is built. Nothing moves until there is something to post.
+Post the blue circle grid finished reveal. Content is generated and ready. Next step: QA it in a fresh session (paste into QAReviewer), then post it.
 
 ## Known inconsistency to be aware of
 
