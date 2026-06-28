@@ -1,8 +1,14 @@
 # /commission-outreach — DM strategy for reaching potential commission buyers
 
-This skill is for when Jackson wants to reach out to a specific type of buyer —
-especially psychedelic/visionary artists, festival community members, or anyone
-in a spiritually-oriented space who might commission a piece.
+This skill is for when Jackson wants to reach out to a potential commission buyer —
+collectors, conscious entrepreneurs, retreat organizers, or anyone spiritually-oriented
+who might connect with the work and commission a piece.
+
+The 3-message structure is intentional: message 1 earns a reply, message 2 builds interest, message 3 closes.
+Pitching in message 1 skips trust-building and kills most conversations before they start.
+
+NOTE: The psychedelic/visionary art community and festival circuit are a future opportunity, not the current focus.
+Only reference that angle if Jackson explicitly brings it up.
 
 When this skill is invoked, ask:
 1. Who specifically are we reaching out to? (artist, camp leader, retreat organizer, etc.)

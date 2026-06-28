@@ -26,3 +26,4 @@ Rules:
 - Shorter is almost always better for the opening line
 - Rank your 5 options: option 1 is the safe/obvious one, option 5 is the riskiest/most interesting
 - Tell Jackson to test option 1 first to learn, then work toward option 5 over time
+- Weakest first because low-stakes experiments teach you what the audience responds to before you spend your riskiest idea

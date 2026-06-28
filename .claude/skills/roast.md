@@ -22,5 +22,5 @@ Then spin up 5 sub-agent perspectives and synthesize:
 
 Rules:
 - Give the Contrarian and Buyer the most weight — they find what the creator's bias hides
-- The Judge cannot give Green Light without at least one dissenting voice being heard
+- The Judge cannot give Green Light without at least one dissenting voice being heard — unchallenged approval from the same person who asked is worthless
 - Always include the cheapest test, even if verdict is Green Light

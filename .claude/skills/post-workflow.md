@@ -31,7 +31,7 @@ Format: Beat 1 [what viewer sees] → Beat 2 → Beat 3 → payoff/reveal
 **Step 4 — Hashtags**
 15 max. Mix of:
 - Broad reach: #art #sculpture #handmade
-- Niche community: #consciousart #visionaryart #processart
+- Niche community: #consciousart #processart #woodsculpture
 - Long-tail specific: #mdfart #layeredwood #cncsculpture
 Label each HIGH / MEDIUM / LOW confidence.
 
