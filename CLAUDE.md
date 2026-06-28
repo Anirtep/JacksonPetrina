@@ -57,7 +57,7 @@ Update this file immediately after any new discovery, mistake, or new skill crea
 - `mendingform-agents.md` — art brand agent team (read for all mendingform tasks)
 
 ## Skills
-/simplify · /roast · /outreach-draft · /session-handoff
+/simplify · /roast · /outreach-draft · /session-handoff · /preflight
 /post-workflow · /hook-writer · /content-analyst · /commission-outreach
 
 ## Avoid
