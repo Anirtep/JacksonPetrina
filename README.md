@@ -11,31 +11,38 @@ JacksonPetrina/
 │
 ├── CLAUDE.md               ← Claude's rules. Auto-loaded every session. Start here.
 ├── mendingform-agents.md   ← AI team for Jackson's art brand (mendingform)
-├── claude-upgrades.md      ← Advanced rules for better AI output
 ├── JacksonPetrinares.pdf   ← Jackson's resume
 │
 └── .claude/
     └── skills/             ← Shortcuts. Type /skill-name and Claude runs a workflow.
-        ├── roast.md            /roast — stress-test any idea before building it
-        ├── hook-writer.md      /hook-writer — 5 video hooks, weakest to strongest
-        ├── content-analyst.md  /content-analyst — analyze social media performance
+        ├── post-workflow.md        /post-workflow — hooks + caption + hashtags in one shot
+        ├── hook-writer.md          /hook-writer — 5 video hooks, weakest to strongest
+        ├── content-analyst.md      /content-analyst — analyze social media performance
         ├── commission-outreach.md  /commission-outreach — DM scripts for art buyers
-        ├── outreach-draft.md   /outreach-draft — write any outreach message
-        ├── simplify.md         /simplify — explain any complex topic in plain English
-        ├── trade-review.md     /trade-review — options trade analysis
-        ├── cnc-review.md       /cnc-review — pre-flight check before a CNC job
-        └── session-handoff.md  /session-handoff — save your place before clearing
+        ├── outreach-draft.md       /outreach-draft — write any outreach message
+        ├── roast.md                /roast — stress-test any idea before building it
+        ├── simplify.md             /simplify — explain any complex topic in plain English
+        └── session-handoff.md      /session-handoff — save your place before clearing
 ```
 
 ---
 
 ## How to use this
 
-**For mendingform (art brand):** Ask Claude anything about content, hooks, captions, or DMs. It reads `mendingform-agents.md` automatically.
+**When you finish a piece:** Type `/post-workflow` and describe the piece in one sentence. Claude handles hooks, video arc, caption, and hashtags in one response.
 
 **For any skill:** Just type the slash command. Example: `/roast` then describe your idea.
 
-**To make Claude smarter over time:** When you learn something new — a feed rate that works, a mistake to avoid, a sales line that landed — tell Claude and ask it to save it here.
+**To make Claude smarter over time:** When you learn something — a sales line that landed, a hook that flopped — tell Claude and ask it to add it to Lab Notes in `mendingform-agents.md`.
+
+---
+
+## Setting up analytics (do this when you start posting)
+
+1. Create creator accounts on Instagram, TikTok, and YouTube
+2. Sign up at **Metricool.com** (free) → connect all three platforms in one place
+3. Every week: export the analytics report → paste it into Claude and type `/content-analyst`
+4. Claude tells you what's working, what to stop doing, and what to test next
 
 ---
 

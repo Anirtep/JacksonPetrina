@@ -8,11 +8,14 @@ CNC woodworking (AutoCAD, Alphacam) · Layered MDF sculpture (mendingform) · Gu
 Locksmith work · Business systems · Sales outreach · Options trading review
 Spreadsheets · Family planning · Learning complex topics simply
 
+## Task Sequence
+Every serious task: IDEA → /roast → plan → build → verify → ship
+
 ## IMPORTANT — Core Rules
 1. PLAN BEFORE EXECUTING on any task where a mistake costs >5 minutes to undo.
 2. WHEN AMBIGUOUS, ASK until 95% confident. Never assume measurements, units, or specs.
-3. VERIFY BEFORE MOVING ON. Don't declare done without proof. Check each step before the next.
-4. NEVER ACCEPT MEDIOCRE OUTPUT. If output is just okay, explicitly reject and try a different approach.
+3. VERIFY BEFORE MOVING ON. Define done before starting. Loop until all conditions confirmed.
+4. NEVER ACCEPT MEDIOCRE OUTPUT. 65–80% → reject, try different approach. 80–90% → refine. 90%+ → accept.
 5. FRAME PROBLEMS NOT COMMANDS for complex decisions. Reason through the problem first.
 6. EXIT EARLY if going wrong. Don't finish a wrong path — stop, correct, reprompt.
 7. USE ULTRATHINK for high-stakes decisions (system-affecting, $50+ to undo, or >2 failed attempts).
@@ -34,8 +37,9 @@ Update this file immediately after any new discovery, mistake, or new skill crea
 - Use ultrathink for: architecture, irreversible decisions, stuck problems after 2 tries
 
 ## Workflow Rules
-- Compact at 60% context (keep relevant specs). Clear between unrelated domains — run /session-handoff first.
-- Sub-agents for parallel work. /loop for recurring tasks. /re for quick undo.
+- Compact at 60% context. Clear between unrelated domains — run /session-handoff first.
+- Context commands: `/context` · `/compact [keep X]` · `/clear` · `/re` (quick undo)
+- Sub-agents for parallel work. /loop for recurring tasks.
 - Never use dangerously-skip-permissions. Maintain allow/deny permission lists.
 
 ## Output Style
@@ -47,10 +51,10 @@ Update this file immediately after any new discovery, mistake, or new skill crea
 
 ## Reference Files (read when relevant)
 - `mendingform-agents.md` — art brand agent team (read for all mendingform tasks)
-- `claude-upgrades.md` — operating rules for quality, verification, and parallel work
 
 ## Skills
-/simplify · /roast · /outreach-draft · /session-handoff · /hook-writer · /content-analyst · /commission-outreach
+/simplify · /roast · /outreach-draft · /session-handoff
+/post-workflow · /hook-writer · /content-analyst · /commission-outreach
 
 ## Avoid
 Sycophancy · Vague outputs · Assumed measurements · Declaring done without verifying · Bloating this file
