@@ -26,10 +26,10 @@ TONE:           Real, grounded, intentional. Never salesy. Let the work speak fi
 BOTTLENECKS:    [FILL: update as you learn what's slowing you down]
 
 CURRENT PIECES:
-  Blue Circle Grid (FINISHED, photographed with black frame):
+  Before the Rain (FINISHED, not being posted — archived):
     4×4 grid of navy/dark blue circles with light blue rings on white background.
-    Corner partial circles. Clean, geometric, meditative. Professional photo ready.
-    Vibe: structured calm. Different feel from the eye piece — quieter, more minimal.
+    Corner partial circles. Clean, geometric, meditative. Professional photo exists.
+    Vibe: structured calm. Name: "Before the Rain". May be posted or sold later.
 
   Eye/Mandala (NEAR-FINISHED, getting black frame):
     4 large human eyes at compass points (N/S/E/W). Gold triangular sections meeting

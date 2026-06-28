@@ -56,12 +56,12 @@ There is no API, no code, no automation. It is a manual workflow.
 ## What has shipped (content)
 
 - Process videos for both pieces (blue circle grid and eye/mandala) posted to IG/TikTok/Shorts
-- Blue circle grid: finished, photographed with black frame — **reveal post content ready, not yet posted**
-- Full /post-workflow output generated: hook #5 (MDF tension), video arc, 3 captions, 15 hashtags
+- "Before the Rain" (blue circle grid): finished, photographed — not being posted, archived for now
+- Eye/mandala piece: near-finished, getting black frame
 
 ## Current priority
 
-Post the blue circle grid finished reveal. Content is generated and ready. Next step: QA it in a fresh session (paste into QAReviewer), then post it.
+Post the new piece (in progress) when finished. Run /post-workflow when it's done.
 
 ## Known inconsistency to be aware of
 
