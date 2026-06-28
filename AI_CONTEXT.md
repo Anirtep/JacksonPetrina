@@ -61,7 +61,7 @@ There is no API, no code, no automation. It is a manual workflow.
 
 ## Current priority
 
-Post the new piece (in progress) when finished. Run /post-workflow when it's done.
+Post the eye/mandala piece when the black frame is on. Run /post-workflow then. Part 2 reveal video planned.
 
 ## Known inconsistency to be aware of
 
