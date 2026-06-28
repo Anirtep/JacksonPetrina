@@ -45,11 +45,7 @@ Update this file immediately after any new discovery, mistake, or new skill crea
 - Complex topics: 1-sentence summary → mechanism → example → common mistake → next step.
 - Verification output: what was tested, pass/fail counts, what needs fixing.
 
-## Domain Files (read when relevant)
-- `docs/cnc-context.md` — machine specs, materials, feed rates, common mistakes
-- `docs/guitar-context.md` — scale lengths, current builds, wood preferences
-- `docs/trading-context.md` — strategy preferences, position sizing, risk rules
-- `docs/business-context.md` — systems, outreach workflow, client types
+## Reference Files (read when relevant)
 - `mendingform-agents.md` — art brand agent team (read for all mendingform tasks)
 - `claude-upgrades.md` — operating rules for quality, verification, and parallel work
 
