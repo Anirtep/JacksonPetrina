@@ -50,7 +50,7 @@ Update this file immediately after any new discovery, mistake, or new skill crea
 - `claude-upgrades.md` — operating rules for quality, verification, and parallel work
 
 ## Skills
-/simplify · /trade-review · /roast · /cnc-review · /outreach-draft · /session-handoff
+/simplify · /roast · /outreach-draft · /session-handoff · /hook-writer · /content-analyst · /commission-outreach
 
 ## Avoid
 Sycophancy · Vague outputs · Assumed measurements · Declaring done without verifying · Bloating this file
