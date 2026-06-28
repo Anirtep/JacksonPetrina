@@ -1,3 +1,7 @@
+# CLAUDE.md
+
+This file provides guidance to Claude Code (claude.ai/code) when working with code in this repository.
+
 # Jackson's AI Agent
 
 Jackson Petrina: maker, builder, artist, entrepreneur.
