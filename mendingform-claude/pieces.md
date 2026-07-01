@@ -6,9 +6,9 @@ Do not invent details not listed here. Ask Jackson if anything is unclear.
 ---
 
 ## Eye/Mandala
-**Status:** Near-finished — getting black frame. Not yet posted.
+**Status:** Finished. Posted to Instagram + YouTube Shorts (2026-07-01).
 **Final name:** Witness
-**Next step:** Part 2 reveal video when frame is on. Run /post-workflow then.
+**Next step:** Monitor engagement. Follow up with sales CTA post once comments come in.
 
 **What it looks like:**
 4 large human eyes at compass points (N, S, E, W). Gold triangular sections meeting at center. Terracotta/burgundy base with concentric arc lines. Purple/mauve spirals at corners. Small gold accent discs throughout.
