@@ -8,6 +8,7 @@ Do not invent details not listed here. Ask Jackson if anything is unclear.
 ## Eye/Mandala
 **Status:** Finished. Posted to Instagram + YouTube Shorts (2026-07-01).
 **Final name:** Witness
+**Dimensions:** 38" x 38"
 **Next step:** Monitor engagement. Follow up with sales CTA post once comments come in.
 
 **What it looks like:**
