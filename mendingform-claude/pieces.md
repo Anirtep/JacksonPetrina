@@ -7,7 +7,7 @@ Do not invent details not listed here. Ask Jackson if anything is unclear.
 
 ## Eye/Mandala
 **Status:** Near-finished — getting black frame. Not yet posted.
-**Final name:** [FILL — ask Jackson]
+**Final name:** Witness
 **Next step:** Part 2 reveal video when frame is on. Run /post-workflow then.
 
 **What it looks like:**
